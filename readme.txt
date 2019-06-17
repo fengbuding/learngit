@@ -5,6 +5,3 @@ hello.
 Creating a new branch is quick.
 123456
 Creating a new branch is quick and simple.
-123
-new line
-fix bug
